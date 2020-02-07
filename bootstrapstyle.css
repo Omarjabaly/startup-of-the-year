@@ -1,0 +1,51 @@
+body, html { 
+
+height: 100%;
+width: 100%;
+background: url(laptop.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+h1 {
+padding: 0.5rem;
+}
+
+.btn-xl {
+padding: 0.5rem 2rem;
+
+}
+
+.btn {
+font-weight: normal;
+border-radius: 200px;
+text-transform: capitalize;
+
+}
+
+.btn-success:hover {
+
+font-weight: 600;
+background-color: #0a6b20;
+border-width: 5px;
+border-color: #0a6b20;
+
+}
+
+hr {
+
+border-color: red;
+border-width: 5rem:
+max-width: 20rem;
+
+}
+
+.buffer {
+
+height: 36rem;
+
+}
+
